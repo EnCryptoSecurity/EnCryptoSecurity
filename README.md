@@ -1,16 +1,12 @@
-### Hi there 👋
+# EnCrypto Security "Every Line is Decoded"
 
-<!--
-**EnCryptoSecurity/EnCryptoSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![EncCover02](https://user-images.githubusercontent.com/109133269/180644083-0b22667a-ad4d-4acf-9eb0-e44449d1af74.png)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌎 Links:
+- Website https://encrypto.info/
+- Twitter https://twitter.com/EnCryptoAudit
+- EnCrypto Community https://t.me/+s_MZ7CfRUvBhZjM1
+- EnCrypto Announcement https://t.me/EncryptoAudit
+- Project Audited https://github.com/EnCryptoSecurity/Smart-Contract-Audits
+- Audit request Telegram https://t.me/EnCryptoDev
+- Audit request Telegram https://t.me/EnCryptoSupp
