@@ -5,7 +5,6 @@
 # 🌎 Links:
 - Website https://encrypto.info/
 - Twitter https://twitter.com/EnCryptoAudit
-- EnCrypto Community https://t.me/+s_MZ7CfRUvBhZjM1
 - EnCrypto Announcement https://t.me/EncryptoAudit
 - Project Audited https://github.com/EnCryptoSecurity/Smart-Contract-Audits
 - Audit request Telegram https://t.me/EnCryptoDev
